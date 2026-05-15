@@ -62,7 +62,6 @@ decision making.
 | `sql_fraud_by_day.csv` | SQL results — daily fraud trend |
 
 ## Dashboard Preview
-![Dashboard](fraud_by_type.png)
 ![Fraud by Type](fraud_by_type.png)
 ![Fraud by Hour](fraud_by_hour.png)
 ![Fraud by Amount](fraud_by_amount.png)
